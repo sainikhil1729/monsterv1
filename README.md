@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/0XBXNQ3/Whats-App-Image-2021-08-11-at-12-51-24-PM.jpg" alt="20210409-002747" border="0">
+<img src="https://ibb.co/0XBXNQ3" alt="20210409-002747" border="0">
 </p>
 <p align="center">
 <a href="https://github.com/chinnu1102">
